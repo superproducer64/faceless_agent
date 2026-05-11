@@ -1,34 +1,35 @@
 # Channel Brief
 
 ## Niche
-Primary: Film & TV production for independent producers
-Content pillars: (1) Business of production — development deals, packaging, co-production finance, sales agents, distribution, streaming deals, what buyers actually want; (2) Producer's craft — how to develop a script, find and attach talent, build a budget, manage a shoot, deliver to a broadcaster; (3) Industry intelligence — streaming economics, writers' strike aftermath, AI in production workflows, which markets are growing
-Avoid: Celebrity gossip, film reviews, beginner filmmaking basics, gear reviews, vlogging, adjacent consumer YouTube niches
+Primary: Human stories — love, power, and culture through a documentary-essayist lens
+Content pillars: (1) Love, relationships & human connection — romance, attachment psychology, dating cultures across the world, famous love stories, the science and sociology of pairing; (2) Power, money & ambition — how industries work, fortunes built or lost, deals and decisions that changed things; (3) Culture & society — trends, subcultures, generational shifts, places and their stories
+Avoid: News commentary, politics, anything time-sensitive that dates badly — all content should feel evergreen across a five-year window
 
 ## Audience
-Primary persona: Working producers and writer-producers, 28–45, intermediate to advanced, actively levelling up their careers — pain points include navigating finance structures, understanding buyer expectations, and crossing into new markets (UK/US/international)
-Secondary persona: Screenwriters and showrunners wanting to understand the business side of the industry
-Geographic reach: UK, US, and international — content speaks across markets; use both markets' terminology where they differ (e.g. "showrunner" / "head writer", "broadcaster" / "network", BFI/BBC Film vs Sundance/Sundance Institute); narration should feel transatlantic — neither aggressively American nor specifically British
-Sophistication level: Intermediate to advanced — industry terminology assumed, no hand-holding
+Primary persona: Curious, educated adults 25–45, long-form magazine readers who've moved to YouTube — watch during commutes, late evenings, weekend mornings; want to feel something and learn something in the same video; share content that makes them look thoughtful in conversation
+Secondary persona: Adults 45–60, migrated from linear TV, underserved on YouTube, longer watch times, want intelligent well-produced content that doesn't talk down to them
+Sophistication level: Casually deep — emotional hook first, intellectual payoff second; story opens with a person before it teaches a system
+Key constraint: The narrator's perspective is the brand — voice and tone carry the trust that subject matter would carry on a single-topic channel
 
 ## Voice & Tone
-Tone adjectives: Authoritative, clear, dry, insider, measured
-POV: Second person "you" — speaks directly to the working producer
-Pacing: Dense and informative but not rushed — treats the audience as professionals who can absorb complexity
-Avoid: Hype language, motivational-poster energy, fear-mongering (e.g. "the industry is DYING"), overly casual or YouTuber-ish delivery, anything that sounds like it's explaining the industry to outsiders
+Tone adjectives: Warm, curious, intelligent, unhurried, quietly confident
+POV: Narrator-led — second person "you" used sparingly for intimacy, never as the default address mode; feels like a trusted narrator talking with the viewer rather than at them
+Pacing: Measured and cinematic — lets ideas breathe, earns emotional beats before intellectual ones
+Avoid: Sensationalism, breathless pacing, over-explaining, ironic detachment, performing intelligence rather than being intelligent
 
 ## Visual Aesthetic
-Style: Clean and document-forward — contracts, budgets, call sheets, pitch decks on screen; minimal motion graphics over cinematic stock footage of sets, edit suites, and festivals
-Colour palette: Dark and considered — deep navy or charcoal base, warm amber or gold accent, clean white text; trade publication aesthetic, not consumer YouTube
-Thumbnail style: Text-led with one strong graphic or document element — bold headline, no faces, high contrast; more Bloomberg than BuzzFeed
-Reference channels: None specified
+Style: Cinematic stock footage-led — people, places, textures; considered rather than stock-library generic; archival material where the story calls for it
+Colour palette: Warm and rich — deep burgundy or terracotta accents, cream or warm white text, dark backgrounds that feel intentional; Monocle magazine meets documentary film
+Thumbnail style: One strong image — a face, a place, or a striking graphic — minimal text; emotion-forward rather than information-forward; the image does the work, the title completes it
+Reference channels: Mid-budget documentary aesthetic, Vox cinematic essays, National Geographic editorial
 
 ## Monetisation
-Primary: AdSense + affiliate marketing
-Affiliate programmes: Production software (Celtx, Movie Magic, StudioBinder), legal/contract services, festival submission platforms (FilmFreeway), industry databases and intelligence (IMDbPro, Variety Intelligence Platform)
-Sponsor constraints: Avoid vanity press distributors, "get your film on Netflix"-style services, and camera/gear brands (keeps channel clearly business-focused, not filmmaker-gear adjacent)
+Primary: AdSense — strong CPM from watch time profile and 25–60 demographic
+Affiliate programmes: Books (Amazon Associates), documentary streaming (MUBI, Curiosity Stream), online learning (Skillshare, Masterclass)
+Sponsor constraints: Only brands consistent with editorial register — travel, culture, books, premium lifestyle; avoid fast food, gaming, crypto, anything that breaks the tone
+Future: Membership/Patreon once audience loyalty is established — extended cuts, early access, reading lists
 
 ## Publishing Cadence
 Long-form: 2 per month
 Shorts/Reels/TikTok: Clipped from long-form, cadence driven by source output
-Best publish times: Tuesday–Thursday, 9–11am EST / 2–4pm GMT (captures both US morning and UK afternoon; standard best-practice window for professional/B2B audiences)
+Best publish times: Tuesday–Thursday, 9–11am EST / 2–4pm GMT
